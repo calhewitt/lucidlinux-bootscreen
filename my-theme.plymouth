@@ -4,5 +4,5 @@ Description=A theme that features a blank background with a logo.
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/my-theme
-ScriptFile=/lib/plymouth/themes/my-theme/my-theme.script
+ImageDir=/lib/plymouth/themes/lucidlinux-bootscreen
+ScriptFile=/lib/plymouth/themes/lucidlinux-bootscreen/my-theme.script
